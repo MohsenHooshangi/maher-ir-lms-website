@@ -51,9 +51,12 @@ The following custom features were implemented in the Maher LMS website:
 
 ## 📂 Project Files
 
-- `/api/maher-api.php`: REST API code connecting site to app
+- `/api/post-order-api-client.php`: Custom WooCommerce hook to send post-order data to mobile app via external REST API (using cURL)
 - `/plugins-used/list-of-plugins.txt`: List of essential plugins used in the project
-- `/custom-code/functions-maher.php`: Theme-based custom code snippets and hooks
+- `/custom-hooks/purchased-product-check.php`: Theme-based custom code snippets and hooks
+- `/custom-hooks/thankyou-page-customizations.php`: Theme-based custom code snippets and hooks
+- `/custom-post-types/register-mag-post-type.php`: Theme-based custom code snippets and hooks
+- `/functions/remove-checkout-address-fields.php`: Theme-based custom code snippets and hooks
 
 ## 📄 Additional Documentation
 
