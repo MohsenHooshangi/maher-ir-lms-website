@@ -1,0 +1,10 @@
+✅ Elementor & Elementor Pro
+✅ JetEngine (Dynamic Data for Courses)
+✅ WooCommerce (eCommerce)
+✅ Digits – Phone Number Login
+✅ WP SMTP
+✅ Rank Math SEO & Rank Math SEO Pro
+✅ WP All Export (for reporting)
+✅ Litespeed Cache
+✅ ACF to REST API
+✅ Gravity Form & Gravity Form Adons
