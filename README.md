@@ -55,8 +55,8 @@ The following custom features were implemented in the Maher LMS website:
 - `/plugins-used/list-of-plugins.txt`: List of essential plugins used in the project
 - `/custom-hooks/purchased-product-check.php`: Theme-based custom code snippets and hooks
 - `/custom-hooks/thankyou-page-customizations.php`: Theme-based custom code snippets and hooks
-- `/custom-post-types/register-mag-post-type.php`: Theme-based custom code snippets and hooks
-- `/functions/remove-checkout-address-fields.php`: Theme-based custom code snippets and hooks
+- `/custom-post-types/register-mag-post-type.php`: Register a custom post type called mag to publish specialized content such as articles or reviews related to the electrical industry
+- `/functions/remove-checkout-address-fields.php`: Remove unnecessary address fields on the WooCommerce checkout page to simplify the course purchase process
 
 ## 📄 Additional Documentation
 
