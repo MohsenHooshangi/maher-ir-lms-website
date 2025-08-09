@@ -78,4 +78,4 @@ If you’d like to learn more or collaborate:
 
 - 📧 Email: **mr.hooshangi.official@gmail.com**  
 - 🌐 Website: [www.mohsenhooshangi.ir](https://www.mohsenhooshangi.ir)  
-- 🖥️ GitHub: [github.com/mrhooshangigit](https://github.com/mrhooshangigit)
+- 🖥️ GitHub: [github.com/mrhooshangigit](https://github.com/MohsenHooshangi)
